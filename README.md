@@ -1,12 +1,12 @@
 ### Hi there, I'm Anjie 👋
 
-🧑🏻‍💻 I’m a final year undergraduate student at the University of Ottawa.
+- 🧑🏻‍💻 I’m a final year undergraduate student at the University of Ottawa.
 
-🔬 My research interests are in machine learning and epidemiology.
+- 🔬 My research interests are in machine learning and epidemiology.
 
-📚 I’m currently working on integrating XR and Gen AI in 3D design, and applying machine learning to epidemiology.
+- 📚 I’m currently working on integrating XR and Gen AI in 3D design, and applying machine learning to epidemiology.
 
-🥰 I’m also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
+- 🥰 I’m also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
 
 <!--
 **anjieyang/anjieyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
