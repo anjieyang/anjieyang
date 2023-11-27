@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <br />
 
-![Anjie's github stats](https://github-readme-stats.vercel.app/api?username=anjieyang&count_private=true&theme=darks&hide_border=true&show_icons=true&hide=stars,issues&hide_border=truebg_color=00000000)
+![Anjie's github stats](https://github-readme-stats.vercel.app/api?username=anjieyang&count_private=true&theme=darks&show_icons=true&hide=stars,issues&hide_border=true&bg_color=00000000)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjieyang&layout=compact&theme=date_night&hide_border=true&bg_color=00000000"/>
