@@ -4,9 +4,9 @@
 
 - 🔬 My research interests are in Machine Learning and Epidemiology.
 
-- 📚 I’m currently working on integrating XR and Gen AI in 3D design, and applying Machine Learning to Epidemiology.
+- 📚 I’m currently working on integrating XR and Gen AI in 3D Design, and applying Machine Learning to Epidemiology.
 
-- 🥰 I’m also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
+- 🥰 I’m also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
 
 <!--
 **anjieyang/anjieyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
