@@ -1,4 +1,4 @@
-### Hi there, I'm Anjie Yang (杨安杰) 👋
+### Hi there, I'm Anjie 👋
 
 - 🧑🏻‍💻 I’m a final year undergrad student majoring in Computer Science at the University of Ottawa.
 
