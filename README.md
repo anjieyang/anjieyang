@@ -1,6 +1,6 @@
-### Hi there, I'm Anjie 👋
+### Hi there, I'm Anjie Yang (杨安杰) 👋
 
-- 🧑🏻‍💻 I’m a final year undergraduate student at the University of Ottawa.
+- 🧑🏻‍💻 I’m a final year undergrad student majoring in Computer Science at the University of Ottawa.
 
 - 🔬 My research interests are in Machine Learning and Epidemiology.
 
