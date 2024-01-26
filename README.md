@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I’m a final year undergrad student majoring in Computer Science at the University of Ottawa.
+- 🧑🏻‍💻 I’m a final year undergrad student majoring in Computer Science and minoring in Enconomics.
 
 - 🔬 My research interests are in Machine Learning and Epidemiology.
 
