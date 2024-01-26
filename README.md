@@ -4,7 +4,7 @@
 
 - 🔬 My research interests are in Machine Learning and Epidemiology.
 
-- 📚 I’m currently working on integrating XR and Gen AI in 3D Design, and applying Machine Learning to Epidemiology.
+- 📚 I’m currently working on integrating XR and Gen AI in 3D Design, Machine Learning, and Epidemiology.
 
 - 🥰 I’m also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
 
