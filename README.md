@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I’m a final year undergrad majoring in Computer Science and minoring in Enconomics.
+- 🧑🏻‍💻 I’m a final year undergrad majoring in Computer Science.
 
 - 🔬 My research interests are in Machine Learning and Epidemiology.
 
