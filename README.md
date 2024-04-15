@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 -->
 <br />
 
-![Anjie's github stats](https://github-readme-stats.vercel.app/api?username=anjieyang&count_private=true&theme=transparent&show_icons=true&hide_border=true)
+![Anjie's github stats](https://github-readme-stats.vercel.app/api?username=anjieyang&count_private=true&hide=stars,issues&theme=transparent&show_icons=true&hide_border=true)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjieyang&layout=compact&theme=date_night&hide_border=true&bg_color=00000000"/>
