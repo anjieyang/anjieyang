@@ -1,12 +1,12 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I'm a final year undergraduate student majoring in Computer Science @uOttawa.
+- 🧑🏻‍💻 I'm a final year undergraduate student majoring in Computer Science at the University of Ottawa.
 
-- 🔬 My research interests are in Machine Learning, focusing on Human-Computer Interaction (HCI), Computer Vision, and multi-modal Large Language Models (MLLMs).
+- 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
 
-- 📚 Currently, I'm engaged in projects involving Diffusion Models and Human-Computer Interaction.
+- 📚 I am currently involved in projects that utilize diffusion models to enhance HCI applications.
 
-- 🥰 I have a keen interest in exploring various domains within Machine Learning, particularly Computer Vision and MLLMs.
+- 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Computer Vision and multi-modal Large Language Models (MLLMs).
 
 <!--
 **anjieyang/anjieyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
