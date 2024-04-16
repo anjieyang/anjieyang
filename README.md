@@ -1,6 +1,6 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I'm a final year undergraduate student majoring in Computer Science at the University of Ottawa.
+- 🧑🏻‍💻 I'm an undergraduate student majoring in Computer Science at the University of Ottawa.
 
 - 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
 
