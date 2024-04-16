@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I'm a final year undergraduate student majoring in Computer Science @uOttawa.
 
-- 🔬 My research interests lie at the intersection of Machine Learning and Epidemiology.
+- 🔬 My research interests are in Machine Learning, focusing on Human-Computer Interaction (HCI), Computer Vision, and multi-modal Large Language Models (MLLMs).
 
 - 📚 Currently, I'm engaged in projects involving Diffusion Models and Human-Computer Interaction.
 
