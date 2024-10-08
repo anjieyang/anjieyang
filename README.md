@@ -1,12 +1,12 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I'm an third-year undergraduate student majoring in Computer Science.
+- 🧑🏻‍💻 I'm an undergraduate student majoring in Computer Science.
 
 - 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
 
-- 📚 I am currently involved in projects that utilize diffusion models to enhance HCI applications.
+- 📚 I am currently involved in projects that utilize Generative AI to enhance HCI applications.
 
-- 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Computer Vision and multi-modal Large Language Models (MLLMs).
+- 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Multi-modal/Multi-sensory Large Language Models (MLLMs).
 
 <!--
 **anjieyang/anjieyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
