@@ -1,12 +1,12 @@
 ### Hi there, I'm Anjie 👋
 
-- 🧑🏻‍💻 I'm an undergraduate student majoring in Computer Science.
+- 🧑🏻‍💻 I am an undergraduate student majoring in Computer Science at the University of Ottawa.
 
-- 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
+- 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI), Large Language Models (LLMs), and AI-generated content (AIGC).
 
-- 📚 I am currently involved in projects that utilize Generative AI to enhance HCI applications.
+- 📚 I am currently working on enhancing human-AI interaction through communicative agents, exploring ways to make AI systems more intuitive and user-friendly.
 
-- 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Multi-modal/Multi-sensory Large Language Models (MLLMs).
+- 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Embodied AI, Multi-modal Learning, and Computer Vision.
 
 <!--
 **anjieyang/anjieyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
