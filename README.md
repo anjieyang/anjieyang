@@ -8,8 +8,6 @@
 
 - 🛠️ Deeply passionate about the hacker ethos and open-source development—shipping code that empowers AI systems to actually execute, coordinate, and scale in real-world environments.
 
-<br />
-
 ### ⚡ Current Focus & Collaboration
 
 - 🔭 **I’m currently working on:** Scalable multi-agent architectures and ultra-low latency LLM routing systems.
