@@ -1,11 +1,8 @@
 ### Hi there, I'm Anjie 👋
 
 - 🧑🏻‍💻 I am a researcher and AI builder at **Northwestern's SPICE Lab**.
-
 - ⚙️ My engineering and research focus squarely on **AI Agents** and **Multi-Agent Infrastructure**. I build the underlying engines for autonomous systems, moving beyond prompts to design robust, executable agentic workflows.
-
 - 🚀 I am currently architecting scalable, production-ready agent frameworks. My work involves high-performance LLM routing, cost-performance optimization, and complex multi-agent orchestration.
-
 - 🛠️ Deeply passionate about the hacker ethos and open-source development—shipping code that empowers AI systems to actually execute, coordinate, and scale in real-world environments.
 
 ### ⚡ Current Focus & Collaboration
